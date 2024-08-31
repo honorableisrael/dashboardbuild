@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.85dcf35d.css",
+    "main.js": "/static/js/main.76ef8d81.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/Tradevu Logo.svg": "/static/media/Tradevu Logo.d79fe5e03d442fd8f3891cd98a16d3cb.svg",
+    "index.html": "/index.html",
+    "main.85dcf35d.css.map": "/static/css/main.85dcf35d.css.map",
+    "main.76ef8d81.js.map": "/static/js/main.76ef8d81.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85dcf35d.css",
+    "static/js/main.76ef8d81.js"
+  ]
+}
