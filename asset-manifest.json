@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c8e9d8c.css",
+    "main.js": "/static/js/main.a85d2a48.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/peerlesslogo.png": "/static/media/peerlesslogo.584ab57a192f6a5b1f62.png",
+    "index.html": "/index.html",
+    "main.4c8e9d8c.css.map": "/static/css/main.4c8e9d8c.css.map",
+    "main.a85d2a48.js.map": "/static/js/main.a85d2a48.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c8e9d8c.css",
+    "static/js/main.a85d2a48.js"
+  ]
+}
